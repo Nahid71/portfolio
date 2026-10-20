@@ -65,14 +65,14 @@ export default function Contact() {
           </h2>
           <div className="w-16 h-1 bg-accent rounded-full mb-6 mx-auto" />
           <p className="text-muted max-w-lg mx-auto mb-4">
-            I&apos;m relocating to Geneva, Switzerland and open to new
+            I&apos;m based in Geneva, Switzerland and open to new
             opportunities. Whether you have a question or just want to connect,
             feel free to reach out.
           </p>
           <div className="flex items-center justify-center gap-2 text-accent text-sm mb-12">
             <MapPin size={16} />
             <span>
-              Geneva, Switzerland · Available from{" "}
+              Based in Geneva, Switzerland · Available{" "}
               {personalInfo.availableFrom}
             </span>
           </div>

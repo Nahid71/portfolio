@@ -19,7 +19,7 @@ const highlights = [
   { icon: Briefcase, label: "7+ Years Engineering Experience" },
   { icon: ShieldCheck, label: "#1 EVV Compliance Contributor" },
   { icon: Globe, label: "US Healthcare & European Teams" },
-  { icon: MapPin, label: "Geneva, Switzerland" },
+  { icon: MapPin, label: "Based in Geneva, Switzerland" },
   { icon: Calendar, label: `Available ${personalInfo.availableFrom}` },
 ];
 

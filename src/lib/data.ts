@@ -83,9 +83,9 @@ export const personalInfo = {
   name: "Nahid Babu",
   title: "Senior Full-Stack & Platform Engineer",
   subtitle:
-    "Architecting mission-critical US healthcare compliance platforms (.NET 10, Python, GCP) and multi-industry AI SaaS systems — from Dhaka to Geneva.",
+    "Architecting mission-critical US healthcare compliance platforms (.NET 10, Python, GCP) and multi-industry AI SaaS systems — based in Geneva, Switzerland.",
   location: "8 Rue Charles-Humbert, Geneva",
-  availableFrom: "September 2026",
+  availableFrom: "Immediately",
   email: "nahidjahid8698@gmail.com",
   phone: "+41 77 943 59 42",
   linkedin: "https://linkedin.com/in/nahidbabu",
@@ -93,7 +93,7 @@ export const personalInfo = {
   about: [
     "I'm a Senior Full-Stack & Platform Engineer specializing in enterprise healthcare compliance systems and multi-industry SaaS platforms. Over the past three years, I have been the single largest contributor (~30% of all commits, 940+ commits, 370+ tickets) to WellSky's Electronic Visit Verification (EVV) platform — a federally mandated healthcare compliance system that verifies home-health visits across 45+ US state-and-vendor combinations.",
     "My ownership spans every layer of the stack: designing multi-state vendor integrations across ~147k lines of Python, building operator workflows in the Next.js/React Transaction Manager, managing 5 GCP environments across 136 Terraform commits, and resolving P0 production incidents. Currently, I am building the platform's next-generation, spec-driven .NET 10 successor (~68k lines of C#, ~2,000 xUnit tests) alongside the live system using a strangler-fig migration pattern.",
-    "Alongside my enterprise healthcare work, I founded and architected Dekhval — an AI-powered multi-tenant ERP and operations platform (~396 commits, 37 modules, 5,028-line Prisma PostgreSQL schema) serving healthcare, pharmacy, retail, agriculture, and service businesses. Having previously worked in Geneva building European GDPR compliance and real-time streaming systems, I am relocating back to Geneva, Switzerland.",
+    "Alongside my enterprise healthcare work, I founded and architected Dekhval — an AI-powered multi-tenant ERP and operations platform (~396 commits, 37 modules, 5,028-line Prisma PostgreSQL schema) serving healthcare, pharmacy, retail, agriculture, and service businesses. Having previously built European GDPR compliance and real-time streaming systems here in Geneva, I am now based in Geneva, Switzerland and excited to contribute to innovative engineering teams across the region.",
   ],
 };
 
