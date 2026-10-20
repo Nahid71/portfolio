@@ -13,23 +13,29 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nahid Babu — Senior Software Engineer",
+  title: "Nahid Babu — Senior Full-Stack & Platform Engineer",
   description:
-    "Senior Software Engineer with 7 years of experience building scalable microservices, cloud-native apps, and full-stack platforms. Based in Geneva, Switzerland.",
+    "Senior Full-Stack & Platform Engineer specializing in enterprise healthcare compliance systems (.NET 10, Python, GCP, Terraform) and multi-industry AI SaaS platforms (Next.js, TypeScript, PostgreSQL). Based in Geneva, Switzerland.",
   keywords: [
     "Senior Software Engineer",
+    "Platform Engineer",
     "Full Stack Developer",
     "Python",
+    "C#",
+    ".NET 10",
+    "Next.js",
     "React",
-    "Node.js",
-    "AWS",
+    "TypeScript",
+    "GCP",
+    "Terraform",
+    "Healthcare Compliance",
     "Geneva",
     "Switzerland",
   ],
   openGraph: {
-    title: "Nahid Babu — Senior Software Engineer",
+    title: "Nahid Babu — Senior Full-Stack & Platform Engineer",
     description:
-      "Building scalable systems from Dhaka to Geneva. 7 years of experience in Python, React, Node.js, and cloud infrastructure.",
+      "Architecting mission-critical healthcare compliance platforms (.NET 10, Python, GCP) and multi-industry AI SaaS systems — 1,350+ production commits across US healthcare and enterprise SaaS.",
     type: "website",
   },
 };
