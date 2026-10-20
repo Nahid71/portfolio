@@ -1,0 +1,267 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 9421 >>
+stream
+0.060 0.090 0.160 rg
+BT /F2 20.00 Tf 40.00 803.89 Td (NAHID BABU) Tj ET
+0.250 0.320 0.400 rg
+BT /F1 8.60 Tf 374.51 807.89 Td (8 Rue Charles-Humbert, Geneva, Switzerland) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 9.80 Tf 40.00 789.89 Td (Senior Full-Stack & Platform Engineer \(.NET 10 | Python | Next.js\)) Tj ET
+0.250 0.320 0.400 rg
+BT /F1 8.60 Tf 385.17 790.89 Td (+41 77 943 59 42 | nahidjahid8698@gmail.com) Tj ET
+0.320 0.380 0.460 rg
+BT /F1 8.50 Tf 40.00 777.89 Td (Based in Geneva, Switzerland  |  Available Immediately) Tj ET
+BT /F1 8.50 Tf 372.87 777.89 Td (linkedin.com/in/nahidbabu | github.com/Nahid71) Tj ET
+0.030 0.570 0.700 RG
+1.40 w 40.00 770.89 m 555.28 770.89 l S
+0.120 0.160 0.230 rg
+BT /F1 9.00 Tf 40.00 757.89 Td (Senior Full-Stack & Platform Engineer with 7+ years of experience architecting mission-critical) Tj ET
+BT /F1 9.00 Tf 40.00 745.49 Td (healthcare compliance platforms and multi-industry SaaS systems. Single largest contributor \(~30% of all) Tj ET
+BT /F1 9.00 Tf 40.00 733.09 Td (commits; 940+ commits, 370+ Jira tickets\) to WellSky's Electronic Visit Verification \(EVV\) compliance) Tj ET
+BT /F1 9.00 Tf 40.00 720.69 Td (platform across 45+ US state-and-vendor combinations, and core engineer on its spec-driven .NET 10) Tj ET
+BT /F1 9.00 Tf 40.00 708.29 Td (successor \(~68k LOC C#, ~2,000 xUnit v3 tests\). Founder & Lead Architect of Dekhval ERP, a 37-module) Tj ET
+BT /F1 9.00 Tf 40.00 695.89 Td (multi-tenant AI SaaS platform \(Next.js 16, React 19, 5,028-line Prisma PostgreSQL schema\). Based in) Tj ET
+BT /F1 9.00 Tf 40.00 683.49 Td (Geneva, Switzerland.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 10.20 Tf 40.00 664.09 Td (KEY IMPACT AT A GLANCE) Tj ET
+0.780 0.830 0.880 RG
+0.80 w 40.00 660.09 m 555.28 660.09 l S
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 649.09 Td (-) Tj ET
+BT 52.00 649.09 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (1,350+ Production Commits:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( 940+ commits across WellSky EVV \(738 backend, 136 Terraform IaC, 73) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 637.29 Td (Next.js UI\) + 417 commits across Dekhval SaaS.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 623.99 Td (-) Tj ET
+BT 52.00 623.99 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Next-Gen .NET 10 Platform:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( ~68k lines of C# across 8 production projects with ~2,000 xUnit v3 tests) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 612.19 Td (\(unit, golden-file, and emulator-backed integration\).) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 598.89 Td (-) Tj ET
+BT 52.00 598.89 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Multi-State Healthcare Scale:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( ~147k lines of Python, all 14 vendor aggregator families across 25+ US) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 587.09 Td (states, 41 REST endpoints, and 3,557 pytest unit tests.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 573.79 Td (-) Tj ET
+BT 52.00 573.79 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Cloud & SaaS Scale:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( 5 GCP environments \(dev/QA/stage/prod/DR\), 60+ Firestore composite indexes, 37) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 561.99 Td (ERP modules, and 28 documented production case studies.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 10.20 Tf 40.00 543.69 Td (TECHNICAL EXPERTISE) Tj ET
+0.780 0.830 0.880 RG
+0.80 w 40.00 539.69 m 555.28 539.69 l S
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 528.69 Td (-) Tj ET
+BT 52.00 528.69 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Languages:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Python \(3.11-3.13\), C# \(.NET 10\), TypeScript, JavaScript \(ES6+\), HCL \(Terraform 1.9\),) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 516.89 Td (SQL.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 503.59 Td (-) Tj ET
+BT 52.00 503.59 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Backend & APIs:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( ASP.NET Core Minimal APIs \(OpenAPI/Scalar, OIDC\), Flask + flask-restx, FastAPI,) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 491.79 Td (Pydantic, Next.js App Router & Server Actions, Prisma ORM, Roslyn Codegen & Architecture Rules.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 478.49 Td (-) Tj ET
+BT 52.00 478.49 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Frontend & Web:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( React 18/19, Next.js 16, Tailwind CSS v4, Ant Design 5, shadcn/ui, Radix UI, Apollo) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 466.69 Td (Client \(GraphQL\), Framer Motion, Recharts, MDX.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 453.39 Td (-) Tj ET
+BT 52.00 453.39 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Cloud & DevOps \(GCP\):) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Cloud Run, Firestore, Pub/Sub, Eventarc, Cloud Storage, BigQuery, API Gateway,) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 441.59 Td (Secret Manager, Cloud Scheduler, Memorystore Redis, Terraform, Docker, GitHub Actions, Azure DevOps,) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 429.79 Td (Coolify.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 416.49 Td (-) Tj ET
+BT 52.00 416.49 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Testing & Integrations:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( xUnit v3, pytest, Jest & React Testing Library, OpenTelemetry \(OTLP\), SFTP) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 404.69 Td (\(Paramiko\), SOAP \(Zeep\), Okta SSO, Stripe, Flagsmith, Claude & OpenAI APIs.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 10.20 Tf 40.00 386.39 Td (PROFESSIONAL EXPERIENCE) Tj ET
+0.780 0.830 0.880 RG
+0.80 w 40.00 382.39 m 555.28 382.39 l S
+BT 40.00 371.39 Td 0.030 0.570 0.700 rg /F2 9.60 Tf (WellSky  |  ) Tj 0.060 0.090 0.160 rg /F1 9.60 Tf (Senior Software Engineer \(EVV & Next-Gen Platform\)) Tj ET
+0.320 0.380 0.460 rg
+BT /F2 8.30 Tf 370.17 371.39 Td (Jul 2023 - Present | Remote \(US Health-Tech\)) Tj ET
+0.250 0.320 0.400 rg
+BT /F3 8.50 Tf 40.00 359.39 Td (Single largest contributor \(~30% of all commits\) to the federally mandated Electronic Visit Verification) Tj ET
+BT /F3 8.50 Tf 40.00 348.19 Td (platform and core engineer on its spec-driven .NET 10 successor.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 334.99 Td (-) Tj ET
+BT 52.00 334.99 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (EVV Next-Gen Platform \(.NET 10\):) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Building the ~68k-line C# strangler-fig successor alongside the) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 323.19 Td (Python API. Authored a single typed payload contract that drives JSON validation, OpenAPI/Markdown) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 311.39 Td (docs, Roslyn C# codegen, and byte-deterministic payload emission.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 298.09 Td (-) Tj ET
+BT 52.00 298.09 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Compiler-Enforced Boundaries & CLI:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Enforced zero platform-to-vendor coupling via assembly) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 286.29 Td (references and Roslyn architecture tests; built the self-updating cross-platform `evv` CLI) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 274.49 Td (distributed across 6 runtime identifiers \(Windows/macOS/Linux, x64/arm64\).) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 261.19 Td (-) Tj ET
+BT 52.00 261.19 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Multi-Vendor Compliance Engine:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Delivered features across all 14 vendor families in the ~147k-line) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 249.39 Td (Python backend \(Sandata, HHAeXchange, Tellus/Netsmart, CareBridge, AHCCCS, AuthentiCare, DCI,) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 237.59 Td (Therap, eMedNY, UEVV\), including building DCI Oregon \(~1,970 lines\) end-to-end from scratch.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 224.29 Td (-) Tj ET
+BT 52.00 224.29 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (State Onboardings & Spec Rules:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Completed state onboardings for Sandata MA, AuthentiCare KS & NM,) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 212.49 Td (eMedNY NY, and Utah UEVV \(SOAP batch cron\); unified adjusted visit-time call omission across 11) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 200.69 Td (Sandata/AHCCCS state modules \(~1,500 lines\) and CareBridge void claims across 6 states.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 187.39 Td (-) Tj ET
+BT 52.00 187.39 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (GCP Terraform Infrastructure:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Authored 136 Terraform commits across 5 environments) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 175.59 Td (\(dev/QA/stage/prod/DR\), managing 6 Cloud Run services, 20+ Cloud Scheduler crons, 60+ Firestore) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 163.79 Td (composite indexes, 35+ secrets, and dual API Gateways for zero-downtime maintenance switching.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 150.49 Td (-) Tj ET
+BT 52.00 150.49 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Frontend & P0 Reliability:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Shipped Bulk Add Reason Code, Caregiver/Patient Requeue, Live-In views,) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 138.69 Td (and O\(1\) cursor-backed numbered pagination in the Next.js Transaction Manager; resolved a platform-) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 126.89 Td (wide P0 FastAPI audit-trail outage caused by an unpinned gRPC dependency.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 6659 >>
+stream
+BT 40.00 803.89 Td 0.030 0.570 0.700 rg /F2 9.60 Tf (Dekhval  |  ) Tj 0.060 0.090 0.160 rg /F1 9.60 Tf (Founder & Lead Platform Architect) Tj ET
+0.320 0.380 0.460 rg
+BT /F2 8.30 Tf 423.51 803.89 Td (2023 - Present | Remote / Dhaka) Tj ET
+0.250 0.320 0.400 rg
+BT /F3 8.50 Tf 40.00 791.89 Td (Designed and built a 37-module multi-tenant SaaS ERP \(~396 commits\) and bilingual AI operations platform) Tj ET
+BT /F3 8.50 Tf 40.00 780.69 Td (serving Healthcare, Pharmacy, Agriculture, Retail, and Services.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 767.49 Td (-) Tj ET
+BT 52.00 767.49 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Multi-Tenant SaaS ERP:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Architected 37 modules on Next.js 16, React 19, TypeScript, and a 5,028-line) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 755.69 Td (Prisma PostgreSQL schema with strict organization-level data isolation and Stripe subscription) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 743.89 Td (billing.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 730.59 Td (-) Tj ET
+BT 52.00 730.59 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Healthcare & FEFO Pharmacy POS:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Built clinical workflows \(doctors, appointments, prescriptions,) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 718.79 Td (surgeries, medical camps, optical catalogs\) and FEFO \(First Expired, First Out\) multi-batch) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 706.99 Td (inventory allocation \(`sale_item_batches`\) with full cancellation stock restoration.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 693.69 Td (-) Tj ET
+BT 52.00 693.69 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (AI Assistants & Social Gateway:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Integrated WhatsApp AI bots, natural-language ERP querying \(Claude &) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 681.89 Td (OpenAI APIs\) with human-in-the-loop approval workflows, and Postiz/Facebook Graph API scheduling) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 670.09 Td (with session-free webhook sync.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 656.79 Td (-) Tj ET
+BT 52.00 656.79 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Self-Healing Production Deploys:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Engineered automatic Prisma P3009 failed-migration recovery in) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 644.99 Td (Docker entrypoints paired with idempotent PostgreSQL DDL migrations, exponential-backoff order) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 633.19 Td (concurrency retry, and stored XSS protections.) Tj ET
+BT 40.00 619.89 Td 0.030 0.570 0.700 rg /F2 9.60 Tf (Uberry  |  ) Tj 0.060 0.090 0.160 rg /F1 9.60 Tf (Software Engineer) Tj ET
+0.320 0.380 0.460 rg
+BT /F2 8.30 Tf 418.80 619.89 Td (2020 - 2022 | Geneva, Switzerland) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 607.89 Td (-) Tj ET
+BT 52.00 607.89 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Priveo GDPR Platform:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Developed a European GDPR compliance management platform automating data) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 596.09 Td (subject requests, consent workflows, and privacy audits using Python, Django REST Framework, React,) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 584.29 Td (PostgreSQL, and Redis.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 570.99 Td (-) Tj ET
+BT 52.00 570.99 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Real-Time Streaming:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Built asynchronous WebSocket architectures for real-time dynamic data) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 559.19 Td (processing and low-latency notifications in an agile European team environment.) Tj ET
+BT 40.00 545.89 Td 0.030 0.570 0.700 rg /F2 9.60 Tf (Earlier Engineering Roles  |  ) Tj 0.060 0.090 0.160 rg /F1 9.60 Tf (Full-Stack Software Engineer) Tj ET
+0.320 0.380 0.460 rg
+BT /F2 8.30 Tf 431.18 545.89 Td (2019 - 2020 | Dhaka, Bangladesh) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 533.89 Td (-) Tj ET
+BT 52.00 533.89 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Full-Stack Web Systems:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Built full-stack applications and RESTful APIs using Django REST Framework,) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 522.09 Td (React, PostgreSQL, MySQL, and Docker serving thousands of concurrent users.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 10.20 Tf 40.00 503.79 Td (SELECTED ENGINEERING CASE STUDIES \(FROM 28 DOCUMENTED RESOLUTIONS\)) Tj ET
+0.780 0.830 0.880 RG
+0.80 w 40.00 499.79 m 555.28 499.79 l S
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 488.79 Td (-) Tj ET
+BT 52.00 488.79 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (P0 Audit Report Outage \(gRPC Bisect\):) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Diagnosed platform-wide `_UnaryStreamMultiCallable` failures) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 476.99 Td (on empty code diffs; bisected transitive gRPC/Firestore SDK versions and pinned compatible bounds to) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 465.19 Td (restore federal audit trails.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 451.89 Td (-) Tj ET
+BT 52.00 451.89 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Silent Pagination Cursor Drift & O\(1\) Cost Pivot:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Fixed silent record skipping under date filters by) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 440.09 Td (dynamically binding cursor fields to active sort orders, and paired `nextToken` cursors with count) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 428.29 Td (metadata to avoid O\(N\) Firestore offset read costs.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 414.99 Td (-) Tj ET
+BT 52.00 414.99 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (DCI Oregon Record Identity & 11-State Adjusted Time Rule:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Persisted DCI GUIDs across re-ingest) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 403.19 Td (diffing to eliminate duplicate POST rejections and SSN-in-URL fallbacks; unified per-side adjusted) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 391.39 Td (call omission across 10 Sandata states and Arizona AHCCCS.) Tj ET
+0.030 0.570 0.700 rg
+BT /F2 8.85 Tf 42.00 378.09 Td (-) Tj ET
+BT 52.00 378.09 Td 0.060 0.090 0.160 rg /F2 8.85 Tf (Self-Healing Prisma Migrations & FEFO Batch Integrity:) Tj 0.150 0.200 0.280 rg /F1 8.85 Tf ( Eliminated P3009 deployment crash loops via) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 366.29 Td (Docker entrypoint auto-recovery + idempotent SQL guards, and built `sale_item_batches` to prevent) Tj ET
+0.150 0.200 0.280 rg
+BT /F1 8.85 Tf 52.00 354.49 Td (silent pharmaceutical inventory loss on sale cancellation.) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000431 00000 n 
+0000009904 00000 n 
+0000010056 00000 n 
+0000016767 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+16919
+%%EOF
